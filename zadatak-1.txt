@@ -1,0 +1,21 @@
+Zadatak 1
+
+Kreirati klasu Member sa atributima 'id', 'firstName', 'lastName' i 'birthDate'. Dodati getere i setere. Dodati toString metodu.
+
+Kreirati tri poslanika sa sledecim podacima i sacuvati ih u fajl 'data/members.json'
+
+id: 1
+name: Petar
+lastName: Petrovic
+
+id: 2
+name: Marko
+lastName: Markovic
+
+id: 3
+name: Milan
+lastName: Milanovic
+
+
+Ucitati podatke o poslanicima iz fajla 'data/members.json' u novu listu objekata klase Members i 
+ispisati njhove podatke u konzoli.
